@@ -1,5 +1,11 @@
-java
+
+Java
 PHP
 PYTHON
 Scala
 Ruby On Rails
+Angular
+JavaScript
+CSS
+HTML
+
